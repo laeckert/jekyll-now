@@ -11,6 +11,7 @@ Well, I really love collecting and analyzing data. Plus, I started working at a 
 I'm glad you asked!  
 <br>
 Some of My Favorite Books | ...and why I Loved Them
+<br>
 [A Gentleman in Moscow](https://www.amazon.com/Gentleman-Moscow-Novel-Amor-Towles/dp/0670026190)...Beautiful, descriptive writing
 <br>
 [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153)...I found my power
