@@ -10,11 +10,10 @@ Well, I really love collecting and analyzing data. Plus, I started working at a 
 <br>
 I'm glad you asked!  
 <br>
-Some of My Favorite Books | ...and why I loved
---------------------------|-------------------
-[A Gentleman in Moscow](https://www.amazon.com/Gentleman-Moscow-Novel-Amor-Towles/dp/0670026190)     |   Beautiful, descriptive writing
-[A Movable Feast](https://www.amazon.com/Moveable-Feast-Restored-Ernest-Hemingway/dp/143918271X)           |   I would like to live that life for a spell
-[We Should All Be Feminists](https://www.amazon.com/We-Should-All-Be-Feminists/dp/110191176X)|   Just read this to your children, trust me
-
+Some of My Favorite Books | ...and why I Loved Them
+[A Gentleman in Moscow](https://www.amazon.com/Gentleman-Moscow-Novel-Amor-Towles/dp/0670026190)...Beautiful, descriptive writing
+[Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153)...I found my power
+[We Should All Be Feminists](https://www.amazon.com/We-Should-All-Be-Feminists/dp/110191176X)...Just read this to your children, trust me.
+<br>
 ## Email?
-mailto:laeckert@ncsu.edu
+mailto: laeckert@ncsu.edu
