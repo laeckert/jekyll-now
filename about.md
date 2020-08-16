@@ -12,7 +12,9 @@ I'm glad you asked!
 <br>
 Some of My Favorite Books | ...and why I Loved Them
 [A Gentleman in Moscow](https://www.amazon.com/Gentleman-Moscow-Novel-Amor-Towles/dp/0670026190)...Beautiful, descriptive writing
+<br>
 [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153)...I found my power
+<br>
 [We Should All Be Feminists](https://www.amazon.com/We-Should-All-Be-Feminists/dp/110191176X)...Just read this to your children, trust me.
 <br>
 ## Email?
