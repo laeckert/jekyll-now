@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
 ## Who is Lucy?  
 <br>
 Hello, everyone! My name is Lucy Eckert. I really like to sit quietly and read. A year ago, I decided to take advantage of my company's really **excellent** tuition reimbursement program and go back to school. I graduated in 2005 with a Geology degree, became a mom a year later, and have worked in the legal field since realizing that was the best way to make enough money to own a house, eat healthy, and be able to sit quietly and read. Now that I'm a graduate student, I have less time to sit quietly and read.
@@ -16,5 +21,6 @@ I'm glad you asked!  Here are some of my favorite books, and why I loved them:
 <br>
 [We Should All Be Feminists](https://www.amazon.com/We-Should-All-Be-Feminists/dp/110191176X)...Just read this to your children, trust me.
 <br>
-## Email?
-mailto:laeckert@ncsu.edu
+### Contact me
+
+[laeckert@ncsu.edu](mailto:laeckert@ncsu.edu)
