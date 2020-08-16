@@ -6,7 +6,7 @@ Hello, everyone! My name is Lucy Eckert. I really like to sit quietly and read. 
 <br>
 Well, I really love collecting and analyzing data. Plus, I started working at a [Tech Company](https://www.redhat.com/en) and wanted to be able to communicate with the engineers. I started the program with **ZERO** programming experience, but now that I'm learning it, I want to know more and more.  
 <br>
-## What Do You Like to Read?  
+## What Do You Like to Sit and Read Quietly?  
 <br>
 I'm glad you asked!  Here are some of my favorite books, and why I loved them:
 <br>
