@@ -8,9 +8,7 @@ Well, I really love collecting and analyzing data. Plus, I started working at a 
 <br>
 ## What Do You Like to Read?  
 <br>
-I'm glad you asked!  
-<br>
-Some of My Favorite Books | ...and why I Loved Them
+I'm glad you asked!  Here are some of my favorite book, and why I loved them:
 <br>
 [A Gentleman in Moscow](https://www.amazon.com/Gentleman-Moscow-Novel-Amor-Towles/dp/0670026190)...Beautiful, descriptive writing
 <br>
@@ -19,4 +17,4 @@ Some of My Favorite Books | ...and why I Loved Them
 [We Should All Be Feminists](https://www.amazon.com/We-Should-All-Be-Feminists/dp/110191176X)...Just read this to your children, trust me.
 <br>
 ## Email?
-mailto: laeckert@ncsu.edu
+mailto:laeckert@ncsu.edu
