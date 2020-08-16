@@ -8,7 +8,7 @@ Well, I really love collecting and analyzing data. Plus, I started working at a 
 <br>
 ## What Do You Like to Read?  
 <br>
-I'm glad you asked!  Here are some of my favorite book, and why I loved them:
+I'm glad you asked!  Here are some of my favorite books, and why I loved them:
 <br>
 [A Gentleman in Moscow](https://www.amazon.com/Gentleman-Moscow-Novel-Amor-Towles/dp/0670026190)...Beautiful, descriptive writing
 <br>
