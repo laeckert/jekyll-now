@@ -24,3 +24,6 @@ I'm glad you asked!  Here are some of my favorite books, and why I loved them:
 ### Contact me
 
 [laeckert@ncsu.edu](mailto:laeckert@ncsu.edu)
+
+### Just for Fun..Me While Troubleshooting
+![Me while troubleshooting](https://github.com/laeckert/laeckert.github.io/blob/master/images/wut2.jpg)
