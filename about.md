@@ -21,15 +21,6 @@ I'm glad you asked!  Here are some of my favorite books, and why I loved them:
 <br>
 [We Should All Be Feminists](https://www.amazon.com/We-Should-All-Be-Feminists/dp/110191176X)...Just read this to your children, trust me.
 <br>
-## Do You Have Pets?  
-
-<br>
-
-| Name         | Type           | Characteristic|
-| :---         |     :---:      |   :---           |
-| Carmen       | dog            | attentive, sleepy|
-| Yooki        | cat            | hungry, aloof    |
-
 ### Contact me
 
 [laeckert@ncsu.edu](mailto:laeckert@ncsu.edu)
