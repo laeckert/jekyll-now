@@ -1,6 +1,6 @@
 ### An Ode to R
 <br>
-Prior to taking ST555 in the summer of 2020, I had near zero programming experience - in the early 1990s I played around on an Apple IIe. In May 2020, when the world was bearing the weight of a global pandemic, I was trying to focus on lectures and navigate my way around SAS. It was not the best experience - if I could do it again I'd take some sort of introductory programming course orient myself and not start out with so many nerves.  
+Prior to taking ST555 in the summer of 2020, I had near zero programming experience - in the early 1990s I played around on an Apple IIe. In May 2020, when the world was bearing the weight of a global pandemic, I was trying to focus on lectures and navigate my way around SAS. It was not the best experience - if I could do it again I'd take some sort of introductory programming course orient myself and not start out with so many nerves. 
 <br>  
 Perhaps thanks to my hereditary stubbornness, I made it through ST555 with a B+, and more importantly, with quite a bit more confidence than when I started.   
 <br>
