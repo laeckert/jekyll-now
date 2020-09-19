@@ -1,6 +1,6 @@
 I have created a Vignette that uses NHL data to explore how a data scientist can leverage APIs to create dataframes, and perform queries of thos data.
 
-You can see my repository [here](https://github.com/laeckert/Project_1).
+You can see my Githib Pages Repo [here](https://laeckert.github.io/Project_1/).
 
 **Some reflections on this project.**
 
@@ -14,6 +14,4 @@ I did have a hard time putting the endpoint functions together, and spent a lot 
 
 I had a number of challenges toward the end of the project, and I suspect most of these could have been abated with improved time management. I bet everyone says this, but my day job is *really* challenging right now. I have so little time for school during the day, and am exhausted by 7 pm when I dig into school work. Some of my challenges: kables that looked beautiful all week suddenly rendered as a series of 0s and 1s. What the heck? Also, my TOC started failing (luckily I fixed this), and my histogram code seems to crash the file and has been removed. 
 
-A final and **IMPORTANT NOTE** - as of 10:21 p.m. on 09/18/2020 my github pages is under maintenance, so the link above is to my repository. My Vignette is visible from there. 
-
-All in all, this has been mostly fun and very eye opening. I hope you enjoy my exploration! 
+All in all, this has been quite fun, rewarding, and very eye opening! I hope you enjoy my exploration! 
